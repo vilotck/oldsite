@@ -9,7 +9,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: uncut videos
     post_list:
       category: uncut videos
       show_more: true
