@@ -2,9 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: recent
+  - title: updates
     post_list:
       limit: 5
+      category: update
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
@@ -12,6 +13,11 @@ entries:
   - title: uncut videos
     post_list:
       category: uncut videos
+      limit: 5
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
+      
+ 
+ 
+
