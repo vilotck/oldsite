@@ -7,7 +7,7 @@ entries:
       limit: 5
       category: update
       show_more: true
-      show_more_text: See archive...
+      show_more_text: more updates...
       show_more_url: archive.html
 
   - title: uncut videos
@@ -15,7 +15,7 @@ entries:
       category: uncut videos
       limit: 5
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: more uncut videos...
       show_more_url: example2-archive.html
       
  
