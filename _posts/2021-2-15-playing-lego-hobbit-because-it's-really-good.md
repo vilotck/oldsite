@@ -1,6 +1,5 @@
 ---
 layout: post
-slug: hr example
 category: uncut videos
 ---
 
