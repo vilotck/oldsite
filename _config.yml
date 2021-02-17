@@ -4,7 +4,6 @@ email:  # email of site's author
 url: https://vilotck.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-:)
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
