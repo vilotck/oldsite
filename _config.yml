@@ -4,8 +4,7 @@ email:  # email of site's author
 url: https://vilotck.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  all videos from my channel but unedited and more like designs and other fun stuff
-
+:)
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
