@@ -3,7 +3,6 @@
 
 entries:
 
-  - title: <a href="https://www.youtube.com/channel/UCv3ymBqcQvnfPRuPwcVxJCg">youtube</a>
   - title: updates
     post_list:
       limit: 5
