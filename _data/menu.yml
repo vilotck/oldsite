@@ -11,6 +11,14 @@ entries:
       show_more_text: more updates...
       show_more_url: archive.html
       
+  - title: exclusive videos
+    post_list:
+      limit: 5
+      category: extra
+      show_more: true
+      show_more_text: more exclusive videos...
+      show_more_url: exctra-archive.html
+      
  
  
 
